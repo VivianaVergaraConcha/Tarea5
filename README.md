@@ -1,3 +1,3 @@
 ## Tarea HTML/CSS: Flex
 
-![](./img/screen.png)
+![](./img/screen.PNG)
